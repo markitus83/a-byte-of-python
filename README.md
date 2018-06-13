@@ -5,3 +5,7 @@ This repository contains the final exercise from this book.
 
 The main objective is to create an agenda that works in the command line. The calendar should allow to add, modify, delete or search for contacts. The details must be saved for future inquiries
 
+This project runs in command line. 
+
+To run it, hit in your terminal: 
+ - `python addressbook.py` (then you can follow the menu)
